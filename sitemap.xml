@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://tmq-gdteam.github.io/audiomcp-arvin/</loc>
+    <loc>https://audiomcp.ai/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://tmq-gdteam.github.io/audiomcp-arvin/contact</loc>
+    <loc>https://audiomcp.ai/contact</loc>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://tmq-gdteam.github.io/audiomcp-arvin/privacy</loc>
+    <loc>https://audiomcp.ai/privacy</loc>
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://tmq-gdteam.github.io/audiomcp-arvin/terms</loc>
+    <loc>https://audiomcp.ai/terms</loc>
     <priority>0.3</priority>
   </url>
 </urlset>
-
