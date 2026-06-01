@@ -1,0 +1,14 @@
+# audiomcp.ai
+
+> audiomcp.ai is MCP-native agentic voice infrastructure for AI agents.
+
+## Primary Pages
+
+- [Homepage](https://audiomcp.ai/)
+- [Contact](https://audiomcp.ai/contact)
+- [Privacy Policy](https://audiomcp.ai/privacy)
+- [Terms of Service](https://audiomcp.ai/terms)
+
+## Summary
+
+audiomcp.ai exposes voice-agent creation as Model Context Protocol tools so AI agents can provision, configure, deploy, and observe voice agents without a human assembling telephony, speech-to-text, text-to-speech, and turn-taking infrastructure by hand.
